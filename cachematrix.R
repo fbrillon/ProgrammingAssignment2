@@ -1,5 +1,13 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The goal of this assignment is to provide  a way to store a cached result 
+## of the inverse of a special matrix created by makeCacheMatrix. 
+##
+## 2 functions are provided :
+## - makeCacheMatrix - to create the special matrix object able to store cached 
+## result
+## - cacheSolve - using the special matrix to calculate and store the inverse 
+## of a matrix. It can already retrieve a previously calculated result if 
+## available.
+
 
 ## Create a special matrix able to store inverse in cache for faster retreival
 
